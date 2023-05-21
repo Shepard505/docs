@@ -8,6 +8,8 @@
 
 ### EPTotems
 
-Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectroPlay. Скачать: https://epserv.ru/media/files/eptotems/EPTotems_v1.2.zip.
+Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectroPlay. Скачать: https://github.com/epserv-ru/docs/files/11524155/EP.totems.1.3.zip.
 
-Имена игроков, поддерживаемые этим ресурспаком: https://epserv.ru/media/files/eptotems/players_v1.2.html.
+
+Имена игроков, поддерживаемые этим ресурспаком: https://github.com/epserv-ru/docs/files/11524156/1.3.txt.
+
